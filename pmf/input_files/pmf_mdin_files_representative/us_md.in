@@ -1,0 +1,26 @@
+md for US
+ &cntrl
+  imin=0,
+  irest=1,
+  ntx=5,
+  tempi=300.0,
+  nstlim=20000000,
+  dt=0.002,
+  cut=10.0,
+  ntc=2,
+  ntf=2,
+  ntb=1,
+  ntt=3,
+  gamma_ln=2.0,
+  temp0=300.0,
+  ntpr=5000,
+  ntwr=5000,
+  ntwx=2000000,
+  ioutfm=1,
+  iwrap=0,
+  nmropt=1,
+ /
+ &wt TYPE='DUMPFREQ', istep1=500, /
+ &wt TYPE='END', /
+DISANG=us_dis.RST
+DUMPAVE=md_us.log
