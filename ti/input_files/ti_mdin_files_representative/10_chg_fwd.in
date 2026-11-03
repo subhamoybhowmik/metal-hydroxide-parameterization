@@ -1,0 +1,32 @@
+ti for deltaG calculation
+ &cntrl
+  imin=0,
+  irest=1,
+  ntx=5,
+  ig=-1,
+  nstlim=2000000,
+  dt=0.001,
+  cut=10.0,
+  ntb=1,
+  tempi=300.0,
+  temp0=300.0,
+  ntt=3,
+  gamma_ln=2.0,
+  ntpr=500,
+  ntwr=500,
+  ntwx=10000,
+  ntave=500,
+  ioutfm=1,
+  ntwv=-1,
+  iwrap=1,
+  icfe=1,
+  clambda=0.88495,
+  timask1 = ":2",
+  timask2 = ":3",
+  ntc=2,
+  ntf=2,
+  lj1264 = 1,
+/
+&ewald
+nfft1=48, nfft2=48, nfft3=48,
+/
