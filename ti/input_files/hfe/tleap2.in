@@ -1,0 +1,11 @@
+source leaprc.protein.ff19SB
+source leaprc.gaff2
+loadoff solvents.lib
+loadamberparams frcmod.opc
+MOL = loadmol2 hydroxide.mol2
+DUM = loadmol2 Dummy.mol2
+a = loadpdb input.pdb
+solvateoct a OPCBOX 24.0
+saveamberparm a 126.prmtop 126.inpcrd
+quit
+

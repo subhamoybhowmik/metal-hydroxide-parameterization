@@ -1,0 +1,14 @@
+@<TRIPOS>MOLECULE
+DUM
+    2     1     1     0     0
+SMALL
+resp
+
+
+@<TRIPOS>ATOM
+      1 O1           0.0000     0.0000     0.1070 o          1 DUM      -1.413839
+      2 H1           0.0000     0.0000    -0.8550 ho         1 DUM       0.413839
+@<TRIPOS>BOND
+     1     1     2 1   
+@<TRIPOS>SUBSTRUCTURE
+     1 MOL         1 TEMP              0 ****  ****    0 ROOT

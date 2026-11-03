@@ -1,0 +1,7 @@
+TITLE      cooresp
+REMARK   1 File created by GaussView 6.1.1
+HETATM   1  O1   MOL A   1      27.500  27.184  27.340                       O
+HETATM   2  H1   MOL A   1      28.055  27.970  27.340                       H
+HETATM   3  O1   DUM B   2      27.500  27.184  27.340                       O
+HETATM   4  H1   DUM B   2      28.055  27.970  27.340                       H
+END

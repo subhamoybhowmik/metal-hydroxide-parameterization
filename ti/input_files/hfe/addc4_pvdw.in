@@ -1,0 +1,15 @@
+parm 126.prmtop
+loadRestrt 126.inpcrd
+setOverwrite True
+#change AMBER_ATOM_TYPE @3 om
+#change AMBER_ATOM_TYPE @4 h1m
+change AMBER_ATOM_TYPE @1 om-
+#addLJType @%om
+#addLJType @%h1m
+addLJType @%om-
+#changeLJSingleType @%om 0.0 0.0
+#changeLJSingleType @%h1m 0.0 0.0
+#changeLJSingleType @%o- 0.0 0.0
+add12_6_4 @%om- c4file c4.txt polfile pol_addc4.dat
+outparm 1264_vdw.prmtop 1264_vdw.inpcrd
+printLJMatrix @%om-
