@@ -1,0 +1,20 @@
+! wB97X-D3 def2-TZVP RIJCOSX def2/J TIGHTSCF TIGHTOPT FREQ
+%maxcore 50000
+%pal
+nprocs 16
+end
+%geom
+maxiter 100
+Constraints
+{A 4 0 7 C } #A for Angle
+{A 4 0 10 C }
+{A 4 0 13 C }
+{A 4 0 16 C }
+end
+end
+! CPCM
+%cpcm
+smd true
+SMDsolvent "WATER"
+end
+*xyzfile 1 2 cu_hydroxide.xyz

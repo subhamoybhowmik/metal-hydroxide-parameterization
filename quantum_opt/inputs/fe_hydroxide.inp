@@ -1,0 +1,11 @@
+! wB97X-D3 def2-TZVP RIJCOSX def2/J TIGHTSCF OPT FREQ
+%maxcore 50000
+%pal
+nprocs 16
+end
+! CPCM
+%cpcm
+smd true
+SMDsolvent "WATER"
+end
+*xyzfile 1 5 fe_hydroxide.xyz
