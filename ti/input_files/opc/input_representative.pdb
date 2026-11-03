@@ -1,0 +1,7 @@
+TITLE      cooresp
+REMARK   1 File created by GaussView 6.1.1
+ATOM      1  O1  LIG     1      -1.356   0.758  -0.176  1.00  0.00           O
+ATOM      2  H1  LIG     1      -1.975   0.065   0.165  1.00  0.00           H
+TER       3      LIG     1
+ATOM      3  ZN   ZN    2      0.296   0.016  -0.006  1.00  0.00          ZN
+ATOM      4  CU   CU    3      0.296   0.016  -0.006  1.00  0.00          CU
