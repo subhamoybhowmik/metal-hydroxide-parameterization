@@ -113,7 +113,7 @@ The provided system-preparation materials include representative LEaP/ParmEd inp
 
 For an implementation walkthrough, see the [AMBER tutorial on the modified 12-6-4 LJ potential using ParmEd](https://ambermd.org/tutorials/advanced/tutorial20/m1264.php).
 
-## 5. Software and interpretation
+## 5. Software
 
 The study used the following principal software and methods:
 
