@@ -1,0 +1,114 @@
+Directory	Window	dV/dl
+
+========== Zn(II) - Co(II) ==========
+zn_co_double_c4	1	11.0088
+zn_co_double_c4	2	11.0010
+zn_co_double_c4	3	10.9871
+zn_co_double_c4	4	10.9588
+zn_co_double_c4	5	10.9322
+zn_co_double_c4	6	10.9033
+zn_co_double_c4	7	10.8685
+zn_co_double_c4	8	10.8319
+zn_co_double_c4	9	10.8037
+zn_co_double_c4	10	10.7768
+zn_co_double_c4	11	10.7608
+zn_co_double_c4	12	10.7438
+
+========== Zn(II) - Cu(II) ==========
+zn_cu_double_c4	1	-14.0973
+zn_cu_double_c4	2	-14.1195
+zn_cu_double_c4	3	-14.1843
+zn_cu_double_c4	4	-14.2685
+zn_cu_double_c4	5	-14.3384
+zn_cu_double_c4	6	-14.4249
+zn_cu_double_c4	7	-14.5039
+zn_cu_double_c4	8	-14.5906
+zn_cu_double_c4	9	-14.6757
+zn_cu_double_c4	10	-14.7165
+zn_cu_double_c4	11	-14.7658
+zn_cu_double_c4	12	-14.7868
+
+========== Zn(II) - Fe(II) ==========
+zn_fe_double_c4	1	29.2853
+zn_fe_double_c4	2	29.2413
+zn_fe_double_c4	3	29.1708
+zn_fe_double_c4	4	29.0699
+zn_fe_double_c4	5	28.9562
+zn_fe_double_c4	6	28.8377
+zn_fe_double_c4	7	28.7020
+zn_fe_double_c4	8	28.5782
+zn_fe_double_c4	9	28.4573
+zn_fe_double_c4	10	28.3552
+zn_fe_double_c4	11	28.2776
+zn_fe_double_c4	12	28.2264
+
+========== Zn(II) - Mn(II) ==========
+zn_mn_double_c4	1	61.0371
+zn_mn_double_c4	2	59.7906
+zn_mn_double_c4	3	57.8277
+zn_mn_double_c4	4	55.3212
+zn_mn_double_c4	5	52.6021
+zn_mn_double_c4	6	49.9576
+zn_mn_double_c4	7	47.4729
+zn_mn_double_c4	8	45.3082
+zn_mn_double_c4	9	43.4975
+zn_mn_double_c4	10	42.1518
+zn_mn_double_c4	11	41.2208
+zn_mn_double_c4	12	40.6961
+
+========== Zn(II) - Ni(II) ==========
+zn_ni_double_c4	1	-3.4997
+zn_ni_double_c4	2	-3.5447
+zn_ni_double_c4	3	-3.6211
+zn_ni_double_c4	4	-3.7128
+zn_ni_double_c4	5	-3.8477
+zn_ni_double_c4	6	-3.9841
+zn_ni_double_c4	7	-4.1486
+zn_ni_double_c4	8	-4.3037
+zn_ni_double_c4	9	-4.4418
+zn_ni_double_c4	10	-4.5778
+zn_ni_double_c4	11	-4.6695
+zn_ni_double_c4	12	-4.7233
+
+========== Zn(II) - Ca(II) ==========
+zn_ca_double_c4_1       1       224.1149
+zn_ca_double_c4_1       2       205.2366
+zn_ca_double_c4_1       3       178.7796
+zn_ca_double_c4_1       4       152.2794
+zn_ca_double_c4_1       5       129.5174
+zn_ca_double_c4_1       6       109.7225
+zn_ca_double_c4_1       7       93.3369
+zn_ca_double_c4_1       8       81.7881
+zn_ca_double_c4_1       9       74.7566
+zn_ca_double_c4_1       10      70.4189
+zn_ca_double_c4_1       11      67.7324
+zn_ca_double_c4_1       12      66.1471
+
+========== Zn(II) - Cd(II) ==========
+zn_cd_double_c4_4       1       83.5881
+zn_cd_double_c4_4       2       79.5037
+zn_cd_double_c4_4       3       73.2076
+zn_cd_double_c4_4       4       65.9684
+zn_cd_double_c4_4       5       58.8606
+zn_cd_double_c4_4       6       52.3896
+zn_cd_double_c4_4       7       46.9527
+zn_cd_double_c4_4       8       42.3952
+zn_cd_double_c4_4       9       38.6544
+zn_cd_double_c4_4       10      35.9097
+zn_cd_double_c4_4       11      33.7606
+zn_cd_double_c4_4       12      32.4223
+
+========== Zn(II) - Mg(II) ==========
+zn_mg_double_c4_1       1       34.4695
+zn_mg_double_c4_1       2       34.4912
+zn_mg_double_c4_1       3       34.4626
+zn_mg_double_c4_1       4       34.4511
+zn_mg_double_c4_1       5       34.3642
+zn_mg_double_c4_1       6       34.3085
+zn_mg_double_c4_1       7       34.2765
+zn_mg_double_c4_1       8       34.2219
+zn_mg_double_c4_1       9       34.1851
+zn_mg_double_c4_1       10      34.1290
+zn_mg_double_c4_1       11      34.1208
+zn_mg_double_c4_1       12      34.1030
+
